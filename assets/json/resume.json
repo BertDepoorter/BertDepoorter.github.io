@@ -166,35 +166,35 @@
       "name": "Physics",
       "icon": "fa-solid fa-tag",
       "keywords": [
+        "Gravitational Waves",
+        "General Relativity",
+        "Bayesian Data Analysis",
+        "Deep Learning for Physics",
         "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Climate Physics",
+        "Physics of Complex Systems",
+        "Monte Carlo Methods"
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Available upon request ",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Available upon request"
     }
+    
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Stochastic GW Background Anisotropies",
+      "summary": "We studied the ",
+      "highlights": ["Stochastic background", "Gravitational Waves"],
+      "startDate": "September 2022",
+      "endDate": "December 2022"
+    },
+    {
+      
     }
   ]
 }
