@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: A first post
+date: 2024-12-08 16:11:00-0400
 inline: false
 related_posts: false
 ---
@@ -10,18 +10,19 @@ Announcements and news can be much longer than just quick inline posts. In fact,
 
 ---
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+In this first post, I will tell you more about the project I am working on at the moment: my master thesis at the ITF, KU Leuven. I am working on EMRI systems, which are extreme-mass-ratio inspirals. 
 
-#### Hipster list
+
+#### EMRI properties
 
 <ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
+    <li>Strong gravity regime</li>
+    <li>Many inspiral orbits: very long signals</li>
+    <li>Emit GWs in LISA band</li>
+    <li>Rich spectrum of waveforms</li>
 </ul>
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+I am mostly concerned with generating these waveforms. We have set up a GPU-accelerated code which allows fast calculation of the waveform by interpolation over a grid of precomputed data points. Next up we will check the accuracy of this model against some surrogate PN5 AAK models. Another thing we want to check is how this code behaves when pushed towards the comparable-mass regime. This we will do by comparing waveforms of the SXS collaboration against those generated using FEW. 
 
 ---
 
