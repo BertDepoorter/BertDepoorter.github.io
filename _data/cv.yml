@@ -11,16 +11,17 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master of Physics
+      institution: KU Leuven, Leuven, Belgium
+      year: 2023-2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Profile theoretical physics, focus on computational courses and gravitational wave physics.
+        - Current grade: 78%
+        - Master thesis under supervision of Thomas Hertog, henri Inchauspé and Jonathan Menu.
+        - title: Content
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Simulations of EMRI waveforms and LISA response to these waveforms.
+            - Focus on estimating detection rates of emri's in LISA
     - title: Bachelor of Physics
       institution: KU Leuven, Leuven , Belgium
       year: 2020-2023
