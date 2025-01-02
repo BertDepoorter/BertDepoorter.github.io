@@ -135,14 +135,18 @@
   ],
   "projects": [
     {
-      "name": "Stochastic GW Background Anisotropies",
-      "summary": "We studied the ",
+      "name": "Stochastic GW Background",
+      "summary": "We studied the possibility of detecting GW background anisotropies using the LISA detector. In this project we reproduced results from Bartolo et al. (2022). ",
       "highlights": ["Stochastic background", "Gravitational Waves"],
       "startDate": "September 2022",
       "endDate": "December 2022"
     },
     {
-      
+      "name": "Laser-atom interactions",
+      "summary": "This project was a computational study on laser-atom interactions between different laser settings and the Sr 87 + ion.  ",
+      "highlights": ["Computational Physics", "Atomic Physics"],
+      "startDate": "Februari 2023",
+      "endDate": "May 2023"
     }
   ]
 }
