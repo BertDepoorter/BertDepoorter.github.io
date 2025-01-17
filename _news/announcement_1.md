@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Launched my personal page! Come back later for interesting content (in my humble opinion hehe)!
+Launched my personal page! Still under construction. Template can be found as al-folio Jekyll 
