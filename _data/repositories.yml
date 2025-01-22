@@ -4,6 +4,8 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - BertDepoorter/Monte-Carlo-Methods
+  - BertDepoorter/Individual_CMfAA
   - BlackHolePerturbationToolkit/FastEMRIWaveforms
   - mikekatz04/LISAanalysistools
   - mikekatz04/eryn
